@@ -1,0 +1,11 @@
+
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A module to check prime numbers",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": ["prime", "number", "checker"],
+  "author": "Ahmad Alomari",
+  "license": "ISC"
+}
